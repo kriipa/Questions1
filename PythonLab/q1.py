@@ -10,3 +10,4 @@ divide = apple_value // student_number
 remain = apple_value%student_number
 print("each student=",divide)
 print("remain=" ,remain)
+print("test")
