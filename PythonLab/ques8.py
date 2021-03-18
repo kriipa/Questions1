@@ -5,4 +5,4 @@
 radius = int(input("enter the radius:"))
 pi = 22/7
 area = pi * (radius ** 2)
-print(f"the area of circle is {area}")
+print(f"the area of circle is {area}") /
