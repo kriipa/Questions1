@@ -8,6 +8,6 @@ apple_value = int(input("Enter the number of apple:"))
 student_number = int(input("Enter the number of students:"))
 divide = apple_value // student_number
 remain = apple_value%student_number
-print("each student=",divide)
-print("remain=" ,remain)
+print("each student=", divide)
+print("remain=" , remain)
 print("test")

@@ -5,8 +5,8 @@
 #for example, if N = 150 ,then 150 minutes have passed since midnight -i:e now is 2:30 am.So the program should print 2 30.
 
 N = int(input("enter the minutes passed since midnight: "))
-hours=(N//60)
-minutes = (N%60)
-print(f"The hours is {hours}")
-print(f"The minutes is {minutes}")
-print(f" Its {hours} : {minutes} now")
+hours = (N // 60)
+minutes = (N % 60)
+print(f"The hours is { hours }")
+print(f"The minutes is { minutes }")
+print(f" Its { hours } : { minutes } now ")
